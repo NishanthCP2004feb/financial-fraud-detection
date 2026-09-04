@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# IDE
+.vscode/
+
+# Model files
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.log
