@@ -17,6 +17,8 @@ __pycache__/
 # Model files
 *.pkl
 *.joblib
+# Exception: track the final deployment model artifact
+!models/final_xgboost_pipeline.joblib
 
 # Temporary files
 *.tmp
